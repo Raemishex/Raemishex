@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Ramazan Huseynov (Raemishex)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Ramazan Huseynov - GitHub Profile README Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raemishex/Raemishex/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raemishex/Raemishex/main/light.svg">
+  <img alt="Ramazan Huseynov - GitHub Profile README Banner" src="https://raw.githubusercontent.com/Raemishex/Raemishex/main/dark.svg" width="100%">
 </picture>
 
 ---
@@ -11,8 +11,6 @@
 ## 🚀 About Me
 I'm a **Full-Stack Developer**, **QA Automation Specialist**, and **AI Workflows & Security Analyst**. I build autonomous AI swarms, secure IoT infrastructure, and craft interactive modern web experiences using Vibe Coding.
 
-- 🌍 Based in **Baku, Azerbaijan**
-- ✉️ Contact me: **huseyinovr686@gmail.com**
 - 🛡️ Focus: Blue Team Threat Hunting, Network Intrusion Detection, and AI Agent Systems.
 
 ---
@@ -36,6 +34,7 @@ I'm a **Full-Stack Developer**, **QA Automation Specialist**, and **AI Workflows
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://github.com/Raemishex" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Raemishex GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Remzi LinkedIn" /></a>
-  <a href="mailto:[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Remzi Email" /></a>
+  <a href="https://www.linkedin.com/in/ramazan-h%C3%BCseynov-8545b1392" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ramazan LinkedIn" /></a>
+  <a href="https://www.instagram.com/ramohax?igsh=eTJqaDAwN2kyejgw" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ramazan Instagram" /></a>
 </p>
+
