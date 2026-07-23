@@ -9,25 +9,32 @@
 ---
 
 ## 🚀 About Me
-I'm a **Full-Stack Developer**, **QA Automation Specialist**, and **AI Workflows & Security Analyst**. I build autonomous AI swarms, secure IoT infrastructure, and craft interactive modern web experiences using Vibe Coding.
+I'm a **Full-Stack Developer**, **QA Automation Specialist**, and **AI Workflows & Security Analyst**. I build autonomous AI swarms, secure IoT infrastructure, and craft interactive 3D web experiences.
 
-- 🛡️ Focus: Blue Team Threat Hunting, Network Intrusion Detection, and AI Agent Systems.
-
----
-
-## 🛠️ Tech Stack & Tools
-* **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Three.js (WebGL)
-* **Backend & Systems:** Node.js, C# ASP.NET Core, Python, SQL Databases, Docker
-* **AI & Agentic Frameworks:** Claude Code, Gemini CLI, Autogen, MCP Servers, Graphify
-* **Cybersecurity:** Seneca Cybench, blue-team forensics, SIEM log analysis
+- 🛡️ **Focus:** Autonomous AI Swarm Architecture, DevSecOps & Blue Team Security
+- 🎯 **Current Projects:** 3D Web Graphics, Interactive Engine Applications & Cyber Threat Intelligence
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack & Skills
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raemishex&show_icons=true&theme=tokyonight&count_private=true" alt="Raemishex Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raemishex&layout=compact&theme=tokyonight" alt="Raemishex Top Languages" height="150" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+## 🎮 Featured 3D & Web Projects
+- 🏎️ **[BMW 3D Collection](https://github.com/Raemishex/BMW-3D-collection):** Interactive 3D vehicle visualization built with Three.js / WebGL.
+- 🌐 **[3D Portfolio](https://github.com/Raemishex/PORTFOLIO-3D):** Full-stack 3D interactive portfolio showcase.
+- 🕹️ **[Imposter Game](https://github.com/Raemishex/imposter-game):** Multiplayer word & party game application.
+- 📱 **[Samsung Store Fork](https://github.com/Raemishex/samsung-fork):** High-fidelity mobile UI clone.
 
 ---
 
@@ -37,4 +44,3 @@ I'm a **Full-Stack Developer**, **QA Automation Specialist**, and **AI Workflows
   <a href="https://www.linkedin.com/in/ramazan-h%C3%BCseynov-8545b1392" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ramazan LinkedIn" /></a>
   <a href="https://www.instagram.com/ramohax?igsh=eTJqaDAwN2kyejgw" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ramazan Instagram" /></a>
 </p>
-
