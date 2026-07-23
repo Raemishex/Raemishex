@@ -2,7 +2,8 @@
   <defs>
     <!-- Fonts -->
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;family=Inter:wght@400;500;600;700;800&amp;display=swap');
+      <![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&family=Inter:wght@400;500;600;700;800&display=swap');
       
       .text-fira { font-family: 'Fira Code', monospace; }
       .text-inter { font-family: 'Inter', sans-serif; }
@@ -73,6 +74,7 @@
         fill: #22d3ee;
         filter: drop-shadow(0 0 8px #22d3ee);
       }
+      ]]>
     </style>
 
     <!-- Gradients -->
